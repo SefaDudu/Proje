@@ -1,0 +1,20 @@
+﻿
+@*@{
+    Layout = null;
+}*@
+@using WebMvc.Helper
+@{
+    ViewBag.Title = "Index";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Yazdir</title>
+</head>
+<body>
+    @Html.RenderXml(ViewBag.XmlString as string, Server.MapPath("~/App_Data/general.xslt")) 
+    @*@Html.RenderXml(ViewBag.XmlString as string, Server.MapPath("~/App_Data/general (1).xslt"))*@ 
+</body>
+</html>

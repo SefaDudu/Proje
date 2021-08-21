@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd3" filename="EFaturaEDM.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd2" filename="EFaturaEDM0.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd1" filename="EFaturaEDM1.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd0" filename="EFaturaEDM2.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd5" filename="EFaturaEDM3.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd6" filename="EFaturaEDM4.xsd" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?wsdl" filename="EFaturaEDM.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.SchemaReference" url="https://test.edmbilisim.com.tr/EFaturaEDM21ea/EFaturaEDM.svc?xsd=xsd4" filename="EFaturaEDM5.xsd" />
+  </Results>
+</DiscoveryClientResultsFile>
